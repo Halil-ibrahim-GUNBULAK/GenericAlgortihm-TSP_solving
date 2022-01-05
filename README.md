@@ -3,7 +3,7 @@ This repository includes the use of genetic algorithm to solve the roaming probl
 Result n_generation for 5000 
 Current Fittest-Time graph
 <p align="center">
-  <img src="test/Fittest.png" width="350" title="hover text">
+  <img src="test/fittest.png" width="350" title="hover text">
 </p>
 First random-way
 <p align="center">
